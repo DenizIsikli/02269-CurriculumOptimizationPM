@@ -16,7 +16,6 @@
 | Deniz Isikli | s215818 | [s215818@student.dtu.dk](mailto:s215818@student.dtu.dk) |
 | Emmanuel Baime | s215790 | [s215790@student.dtu.dk](mailto:s215790@student.dtu.dk) |
 | Ian Nathan Marcuson Wald | s251567 | [s251567@student.dtu.dk](mailto:s251567@student.dtu.dk) |
-| Mustafa Jawad El-Madani | s215225 | [s215225@student.dtu.dk](mailto:s215225@student.dtu.dk) |
 | Sebastian Agustin Vial | s251586 | [s251586@student.dtu.dk](mailto:s251586@student.dtu.dk) |
 
 ---
